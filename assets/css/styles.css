@@ -610,6 +610,7 @@ body.dark-theme {
   column-gap: 0.5rem;
   color: var(--title-color);
   font-size: var(--small-font-size);
+  margin-right: 2rem;
 }
 
 .projects__button {
